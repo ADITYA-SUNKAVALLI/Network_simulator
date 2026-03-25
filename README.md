@@ -19,6 +19,25 @@ Language: C++17
 Compiler: g++ (MinGW / GCC)
 IDE: Visual Studio Code
 Interface: Console-based interactive menu
+
+📡 Network Protocol Stack Simulator
+(Physical + Data Link Layer Implementation in C++)
+🚀 Overview
+
+This project is a console-based network simulator built in C++17, implementing the Physical Layer (Layer 1) and Data Link Layer (Layer 2) of the OSI model from scratch, without using any external networking libraries.
+
+The simulator demonstrates how data is transmitted, encoded, controlled, and managed at the lowest levels of networking using real protocol logic.
+
+🎯 Objectives
+Understand low-level network communication
+Simulate bit-level transmission and encoding
+Implement real-world data link protocols
+Visualize how devices like Hub, Switch, and Bridge behave
+🛠️ Tech Stack
+Language: C++17
+Compiler: g++ (MinGW / GCC)
+IDE: Visual Studio Code
+Interface: Console-based interactive menu
 📂 Project Structure
 
 NetworkSimulator/
